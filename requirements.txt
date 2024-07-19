@@ -1,0 +1,17 @@
+absl-py
+attrs
+cycler
+fonttools
+kiwisolver
+matplotlib
+mediapipe
+numpy
+opencv-contrib-python
+packaging
+Pillow
+protobuf
+pyparsing
+python-dateutil
+pyqt5
+six
+tensorflow
